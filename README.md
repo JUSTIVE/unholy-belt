@@ -1,3 +1,3 @@
 # unholy-belt
 
-kill the javascript christanity with safely-parsed types
+kill the javascript's trinitas with safely-parsed types
